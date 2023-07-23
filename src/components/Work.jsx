@@ -155,7 +155,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://rahuldivyansh-restaurant-app.netlify.app/"
+                  href="https://rahuldivyansh-restro.netlify.app/"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-gray-700 text-lg">
